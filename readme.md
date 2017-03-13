@@ -23,3 +23,11 @@ QQ群 *在澳洲搞IT*：229197498
 * [怎样才能从英语很糟糕的人变成英语很厉害的人](怎样才能从英语很糟糕的人变成英语很厉害的人？)
 * [学习英语给你带来了哪些机会](https://www.zhihu.com/question/35604716)
 * [Chrome Google 翻译插件，网页划词翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+
+## 年轻
+
+
+## 中年
+* [外企，中年失业何去何从？](https://www.zhihu.com/question/26553748)
+* [年轻时要做什么才能避免中年危机那样无趣、甚至绝望的生活？](https://www.zhihu.com/question/50387992)
+* [如何避免中年失业？](https://www.zhihu.com/question/33772508)
