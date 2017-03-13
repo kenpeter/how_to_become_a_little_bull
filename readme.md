@@ -19,7 +19,7 @@ QQ群 *在澳洲搞IT*：229197498
 * [零基础转前端是怎样一种体验？](https://www.zhihu.com/question/48989656)
 
 ## 英语
-* []你有什么相见恨晚的英语学习方法] (https://www.zhihu.com/question/26677313)
+* [你有什么相见恨晚的英语学习方法](https://www.zhihu.com/question/26677313)
 * [怎样才能从英语很糟糕的人变成英语很厉害的人](怎样才能从英语很糟糕的人变成英语很厉害的人？)
 * [学习英语给你带来了哪些机会](https://www.zhihu.com/question/35604716)
 * [Chrome Google 翻译插件，网页划词翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
