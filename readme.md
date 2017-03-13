@@ -31,3 +31,6 @@ QQ群 *在澳洲搞IT*：229197498
 * [外企，中年失业何去何从？](https://www.zhihu.com/question/26553748)
 * [年轻时要做什么才能避免中年危机那样无趣、甚至绝望的生活？](https://www.zhihu.com/question/50387992)
 * [如何避免中年失业？](https://www.zhihu.com/question/33772508)
+
+## Study
+* [你有什么相见恨晚的高效学习方法？](https://www.zhihu.com/question/50343728)
