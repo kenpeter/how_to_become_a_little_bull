@@ -14,3 +14,7 @@ QQ群 *在澳洲搞IT*：229197498
 * [今年（2017年）新手前端是否真的很难找工作？](https://www.zhihu.com/question/55899160)
 * [前端现在怎么这么多人？](https://www.zhihu.com/question/55886635)
 * [前端新人的迷茫？](https://www.zhihu.com/question/54440732)
+* [前端程序员会不会被淘汰？](https://www.zhihu.com/question/50473087)
+* [前端实习真的有这么难找?](https://www.zhihu.com/question/43522943)
+* [零基础转前端是怎样一种体验？](https://www.zhihu.com/question/48989656)
+* 
