@@ -15,6 +15,7 @@ QQ群 *在澳洲搞IT*：229197498
 
 ## Programming
 * [如何提高编程能力？](https://www.zhihu.com/question/19862349)
+* [编程新手如何提高编程能力？](https://www.zhihu.com/question/27574436)
 
 ## 前端
 
