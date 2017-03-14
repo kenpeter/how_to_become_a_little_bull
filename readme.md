@@ -13,6 +13,9 @@ QQ群 *在澳洲搞IT*：229197498
 * [你有什么相见恨晚的高效学习方法？](https://www.zhihu.com/question/50343728)
 * [为什么发现身边「努力却得不到回报」的现象变得越来越普遍？](https://www.zhihu.com/question/32163355)
 
+## Programming
+* [如何提高编程能力？](https://www.zhihu.com/question/19862349)
+
 ## 前端
 
 * [Web前端的路该怎么走?](https://www.zhihu.com/question/34388831)
