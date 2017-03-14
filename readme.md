@@ -7,6 +7,12 @@ QQ群 *在澳洲搞IT*：229197498
 
 新入QQ群的朋友记得修改自己的群名片，格式*城市-昵称/名字-专业*。例如：“Mel-小明-Java”。
 
+![alt text](https://github.com/kenpeter/how_to_become_a_little_bull/blob/master/img/coding.png "Keep codig")
+
+## Study
+* [你有什么相见恨晚的高效学习方法？](https://www.zhihu.com/question/50343728)
+* [为什么发现身边「努力却得不到回报」的现象变得越来越普遍？](https://www.zhihu.com/question/32163355)
+
 ## 前端
 
 * [Web前端的路该怎么走?](https://www.zhihu.com/question/34388831)
@@ -31,7 +37,3 @@ QQ群 *在澳洲搞IT*：229197498
 * [外企，中年失业何去何从？](https://www.zhihu.com/question/26553748)
 * [年轻时要做什么才能避免中年危机那样无趣、甚至绝望的生活？](https://www.zhihu.com/question/50387992)
 * [如何避免中年失业？](https://www.zhihu.com/question/33772508)
-
-## Study
-* [你有什么相见恨晚的高效学习方法？](https://www.zhihu.com/question/50343728)
-* [为什么发现身边「努力却得不到回报」的现象变得越来越普遍？](https://www.zhihu.com/question/32163355)
