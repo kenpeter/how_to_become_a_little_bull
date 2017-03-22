@@ -10,6 +10,8 @@ QQ群 *在澳洲搞IT*：229197498
 ![alt text](https://github.com/kenpeter/how_to_become_a_little_bull/blob/master/img/coding.png "Keep codig")
 
 ## Study
+* [IT 大牛是怎样炼成的？](https://www.zhihu.com/question/30787036)
+* [很多IT大牛在我这个年龄时已经很厉害了，我该怎么做才能变成他们那样的人？](https://www.zhihu.com/question/57051358)
 * [你有什么相见恨晚的高效学习方法？](https://www.zhihu.com/question/50343728)
 * [为什么发现身边「努力却得不到回报」的现象变得越来越普遍？](https://www.zhihu.com/question/32163355)
 
@@ -33,9 +35,6 @@ QQ群 *在澳洲搞IT*：229197498
 * [怎样才能从英语很糟糕的人变成英语很厉害的人](怎样才能从英语很糟糕的人变成英语很厉害的人？)
 * [学习英语给你带来了哪些机会](https://www.zhihu.com/question/35604716)
 * [Chrome Google 翻译插件，网页划词翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-
-## 年轻
-
 
 ## 中年
 * [外企，中年失业何去何从？](https://www.zhihu.com/question/26553748)
